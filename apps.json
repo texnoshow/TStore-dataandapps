@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Metro Commander",
+    "author": "Win8Fan",
+    "description": "Классический двухпанельный файловый менеджер, разработанный специально для плиточного интерфейса Windows 8.1. Поддерживает работу с жестами и горячими клавишами.",
+    "iconUrl": "",
+    "downloadUrl": "https://raw.githubusercontent.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/main/packages/MetroCommander.appx"
+  },
+  {
+    "name": "Yellow Player",
+    "author": "YellowTeam",
+    "description": "Легковесный аудиопроигрыватель. Минималистичный дизайн в цвет системы, поддержка плейлистов и фонового воспроизведения в Windows 8.1.",
+    "iconUrl": "",
+    "downloadUrl": "https://raw.githubusercontent.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/main/packages/YellowPlayer.appx"
+  }
+]
