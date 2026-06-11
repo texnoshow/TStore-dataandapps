@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "id": "bing_travel",
+      "title": "Bing Путешествия",
+      "version": "1.0.0",
+      "category": "tools",
+      "icon_text": "TR",
+      "description": "Оригинальное приложение 'Путешествия' для Windows 8.1. Исследуйте мир, смотрите панорамы, гиды по городам и планируйте поездки прямо с планшета.",
+      "download_url": "https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_РЕПОЗИТОРИЙ/main/apps/BingTravel.appx"
+    }
+  ]
+}
