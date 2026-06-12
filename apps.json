@@ -1,16 +1,9 @@
 [
   {
-    "name": "Metro Commander",
-    "author": "Win8Fan",
-    "description": "Классический двухпанельный файловый менеджер, разработанный специально для плиточного интерфейса Windows 8.1. Поддерживает работу с жестами и горячими клавишами.",
+    "name": "SuperPhoto",
+    "author": "Test",
+    "description": "Test",
     "iconUrl": "",
-    "downloadUrl": "https://raw.githubusercontent.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/main/packages/MetroCommander.appx"
-  },
-  {
-    "name": "Yellow Player",
-    "author": "YellowTeam",
-    "description": "Легковесный аудиопроигрыватель. Минималистичный дизайн в цвет системы, поддержка плейлистов и фонового воспроизведения в Windows 8.1.",
-    "iconUrl": "",
-    "downloadUrl": "https://raw.githubusercontent.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/main/packages/YellowPlayer.appx"
+    "downloadUrl": "https://raw.githubusercontent.com/texnoshow/8Store-apps/refs/heads/main/63099Moonlighting.SuperPhotoFree_1.6.0.2_neutral__hths5t1tmnj8m.appx"
   }
 ]
