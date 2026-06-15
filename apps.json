@@ -10,6 +10,7 @@
     "name": "micro$oft minesweeper",
     "author": "Micro$oft",
     "description": "a simple minesweeper",
+    "best": true,
     "iconUrl": "",
     "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/appmanysixenotincodeappletstoreparody123456789101112/Microsoft.MicrosoftMinesweeper_2.4.1408.2503_x86__8wekyb3d8bbwe.appx"
   },
@@ -17,6 +18,7 @@
     "name": "ZuneMusic",
     "author": "Micro$oft",
     "description": "a simple Music Player",
+     "editor": true,
     "iconUrl": "",
     "url": "https://github.com/texnoshow/TStore-dataandapps/raw/refs/heads/main/Music8_1_x86.appx"
   },
@@ -24,6 +26,7 @@
     "name": "Crossy Road",
     "author": "Yodo1Ltd",
     "description": "Arcade game. So Hard!",
+     "editor": true,
     "iconUrl": "",
     "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/croad/Yodo1Ltd.CrossyRoad_1.1.3.0_x86__s3s3f300emkze.appx"
   }
