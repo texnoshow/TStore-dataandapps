@@ -44,6 +44,14 @@
     "description": "Aka vlc-uwp",
      "best": true,
     "iconUrl": "",
-    "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/apps/VideoLAN.VLC_2018.802.825.0_neutral_._paz6r1rewnh0a.AppxBundle"
+    "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/apps/VLC_WinRT.Windows_3.0.6.0_x86.appx"
+  },
+  {
+    "name": "3DMark RT",
+    "author": "Futuremark",
+    "description": "3DMark for windows store",
+     "best": true,
+    "iconUrl": "https://github.com/texnoshow/TStore-dataandapps/releases/download/apps/Futuremark.3DMark_1.2.42.0_x86__rxzpp8adhbvh8.appx",
+    "url": ""
   }
 ]
