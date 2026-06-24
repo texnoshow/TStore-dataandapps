@@ -37,5 +37,13 @@
      "editor": true,
     "iconUrl": "",
     "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/apps/Microsoft.FreshPaint_2.0.15133.0_x86__8wekyb3d8bbwe.appx"
+  },
+   {
+    "name": "VLC",
+    "author": "VideoLAN",
+    "description": "Aka vlc-uwp",
+     "best": true,
+    "iconUrl": "",
+    "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/apps/VideoLAN.VLC_2018.802.825.0_neutral_._paz6r1rewnh0a.AppxBundle"
   }
 ]
