@@ -53,5 +53,12 @@
      "best": true,
     "iconUrl": "",
     "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/apps/Futuremark.3DMark_1.2.42.0_x86__rxzpp8adhbvh8.appx"
+  },
+  {
+    "name": "Opentracks",
+    "author": "none",
+    "description": "Check out opentracks!",
+    "iconUrl": "",
+    "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/apps/Mp3HubPlayer_1.0.0.2_AnyCPU_Debug.appx"
   }
 ]
