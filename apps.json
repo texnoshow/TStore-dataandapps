@@ -57,7 +57,7 @@
     "name": "micro$oft Jigsaw",
     "author": "micro$oft",
     "description": "Пазлы.",
-     "best": true,
+     "editor": true,
     "iconUrl": "",
     "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/cmded/Microsoft.MicrosoftJigsaw_1.7.1808.2102_x86__8wekyb3d8bbwe.appx"
   }
