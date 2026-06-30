@@ -18,7 +18,6 @@
     "name": "ZuneMusic",
     "author": "Micro$oft",
     "description": "a simple Music Player",
-     "editor": true,
     "iconUrl": "",
     "url": "https://github.com/texnoshow/TStore-dataandapps/raw/refs/heads/main/Music8_1_x86.appx"
   },
@@ -53,5 +52,13 @@
      "best": true,
     "iconUrl": "",
     "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/apps/Futuremark.3DMark_1.2.42.0_x86__rxzpp8adhbvh8.appx"
+  },
+    {
+    "name": "micro$oft Jigsaw",
+    "author": "micro$oft",
+    "description": "Пазлы.",
+     "best": true,
+    "iconUrl": "",
+    "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/cmded/Microsoft.MicrosoftJigsaw_1.7.1808.2102_x86__8wekyb3d8bbwe.appx"
   }
 ]
