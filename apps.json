@@ -76,6 +76,21 @@
      "editor": true,
     "iconUrl": "",
     "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/whyoctostorenotworkinrussia/Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe.appx"
+   },
+   {
+    "name": "Old Windows versions",
+    "author": "Crispy Apps",
+    "description": "И это тоже долго искали.",
+    "iconUrl": "",
+    "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/whyoctostorenotworkinrussia/64199CrispyApps.OldWindowsVersions_1.0.0.4_neutral__s2yxefhqv79jt.appx"
+   },
+     {
+    "name": "newsXpresso",
+    "author": "esobiIncorporated",
+    "description": "News Served your way",
+    "iconUrl": "",
+    "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/whyoctostorenotworkinrussia/esobiIncorporated.newsXpressoMetro_2.0.2.208_neutral__sngswjb5h6fyg.appx"
    }
+  
  
 ]
