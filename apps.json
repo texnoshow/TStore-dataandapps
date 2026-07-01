@@ -60,5 +60,22 @@
      "editor": true,
     "iconUrl": "",
     "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/cmded/Microsoft.MicrosoftJigsaw_1.7.1808.2102_x86__8wekyb3d8bbwe.appx"
-  }
+  },
+    {
+    "name": "micro$oft Mahjong",
+    "author": "micro$oft",
+    "description": "Долго искали.",
+     "editor": true,
+    "iconUrl": "",
+    "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/whyoctostorenotworkinrussia/Microsoft.MicrosoftMahjong_2.0.0.31021_x86__8wekyb3d8bbwe.appx"
+  },
+    {
+    "name": "micro$oft Solitaire Collection",
+    "author": "micro$oft",
+    "description": "Тоже долго искали.",
+     "editor": true,
+    "iconUrl": "",
+    "url": "https://github.com/texnoshow/TStore-dataandapps/releases/download/whyoctostorenotworkinrussia/Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe.appx"
+   },
+ 
 ]
